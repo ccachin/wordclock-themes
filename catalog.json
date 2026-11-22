@@ -1,0 +1,42 @@
+{
+  "format": "wordclock-community-catalog",
+  "version": 1,
+  "themes": [
+    {
+      "id": "northern-lights",
+      "name": "Northern Lights",
+      "author": "Wordclock",
+      "description": "Une ambiance inspirée des aurores boréales.",
+      "front": "#80FFBB",
+      "rear": "#5373FF",
+      "path": "themes/northern-lights.json"
+    },
+    {
+      "id": "golden-hour",
+      "name": "Golden Hour",
+      "author": "Wordclock",
+      "description": "Les couleurs du soleil couchant.",
+      "front": "#FFE3A0",
+      "rear": "#FF7015",
+      "path": "themes/golden-hour.json"
+    },
+    {
+      "id": "deep-ocean",
+      "name": "Deep Ocean",
+      "author": "Wordclock",
+      "description": "Les profondeurs océaniques.",
+      "front": "#A9EBFF",
+      "rear": "#0759DD",
+      "path": "themes/deep-ocean.json"
+    },
+    {
+      "id": "lavender",
+      "name": "Lavender",
+      "author": "Wordclock",
+      "description": "Une ambiance violette et douce.",
+      "front": "#E6BFFF",
+      "rear": "#9C40DD",
+      "path": "themes/lavender.json"
+    }
+  ]
+}

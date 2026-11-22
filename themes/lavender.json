@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "id": "lavender",
+  "name": "Lavender",
+  "author": "Wordclock",
+  "description": "Une ambiance violette et douce.",
+  "front": "#E6BFFF",
+  "rear": "#9C40DD",
+  "harmony": "manual",
+  "frontEffect": "solid",
+  "rearEffect": "solid",
+  "frontSpeed": 50,
+  "rearSpeed": 50
+}

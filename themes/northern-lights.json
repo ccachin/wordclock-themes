@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "id": "northern-lights",
+  "name": "Northern Lights",
+  "author": "Wordclock",
+  "description": "Une ambiance inspirée des aurores boréales.",
+  "front": "#80FFBB",
+  "rear": "#5373FF",
+  "harmony": "manual",
+  "frontEffect": "solid",
+  "rearEffect": "solid",
+  "frontSpeed": 50,
+  "rearSpeed": 50
+}

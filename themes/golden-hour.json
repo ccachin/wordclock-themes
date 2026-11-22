@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "id": "golden-hour",
+  "name": "Golden Hour",
+  "author": "Wordclock",
+  "description": "Les couleurs du soleil couchant.",
+  "front": "#FFE3A0",
+  "rear": "#FF7015",
+  "harmony": "manual",
+  "frontEffect": "solid",
+  "rearEffect": "solid",
+  "frontSpeed": 50,
+  "rearSpeed": 50
+}

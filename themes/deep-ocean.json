@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "id": "deep-ocean",
+  "name": "Deep Ocean",
+  "author": "Wordclock",
+  "description": "Les profondeurs océaniques.",
+  "front": "#A9EBFF",
+  "rear": "#0759DD",
+  "harmony": "manual",
+  "frontEffect": "solid",
+  "rearEffect": "solid",
+  "frontSpeed": 50,
+  "rearSpeed": 50
+}
