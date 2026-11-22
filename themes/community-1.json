@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "Rainbow (Copie)",
+  "author": "Christophe",
+  "description": "",
+  "front": "#FF4747",
+  "rear": "#FFFFFF",
+  "harmony": "manual",
+  "frontEffect": "solid",
+  "rearEffect": "rainbow",
+  "frontSpeed": 50,
+  "rearSpeed": 82,
+  "id": "community-1"
+}

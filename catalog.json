@@ -37,6 +37,15 @@
       "front": "#E6BFFF",
       "rear": "#9C40DD",
       "path": "themes/lavender.json"
+    },
+    {
+      "id": "community-1",
+      "name": "Rainbow (Copie)",
+      "author": "Christophe",
+      "description": "",
+      "front": "#FF4747",
+      "rear": "#FFFFFF",
+      "path": "themes/community-1.json"
     }
   ]
 }
